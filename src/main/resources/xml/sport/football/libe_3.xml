@@ -1,0 +1,346 @@
+<fbgame source="Tas Football" version="4.16.07" generated="10/1/2016">
+ <venue gameid="LUFB1605" visid="RMU" homeid="LIBERTY" visname="Robert Morris" homename="Liberty"
+      date="10/1/2016" location="Lynchburg, Va." stadium="Williams Stadium"
+      start="7:06 pm" end="" nitegame="Y"
+      duration="" attend="0" temp="70" wind="ESE 2" weather="Partly cloudy">
+  <officials ref="Riley Johnson" ump="Michael Wooten" line="Mike Owens" lj="Tim Graham" bj="Brian McCready" fj="Mike Cullen" sj="Mike Safrit" cj="Larry Mallam" alt="Larry Mallam"></officials>
+  <rules qtrs="4" mins="15" downs="4" yds="10" kospot="35" tbspot="20" kotbspot="25" patspot="3" safspot="20" td="6" fg="3" pat="1" patx="2" saf="2" defpat="2" rouge="1" field="100" toh="3" sackrush="Y" fgaplay="Y" netpunttb="Y"></rules>
+ </venue>
+ <team vh="V" code="" id="RMU" name="Robert Morris" record="1-3" abb="R">
+  <linescore prds="1" line="7" score="7">
+   <lineprd prd="1" score="7"></lineprd>
+  </linescore>
+  <totals totoff_plays="10" totoff_yards="77" totoff_avg="7.7">
+   <firstdowns no="3" rush="0" pass="3" penalty="0"></firstdowns>
+   <penalties no="0" yds="0"></penalties>
+   <conversions thirdconv="2" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+   <fumbles no="0" lost="0"></fumbles>
+   <misc yds="0" top="05:32" ona="0" onm="0" ptsto="0"></misc>
+   <redzone att="1" scores="1" points="7" tdrush="0" tdpass="1" fgmade="0" endfga="0" enddowns="0" endint="0" endfumb="0" endhalf="0" endgame="0"></redzone>
+   <rush att="5" yds="21" gain="22" loss="1" td="0" long="10"></rush>
+   <pass comp="4" att="5" int="0" yds="56" td="1" long="36" sacks="0" sackyds="0"></pass>
+   <rcv no="4" yds="56" td="1" long="36"></rcv>
+   <punt no="1" yds="38" long="38" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="38.0"></punt>
+   <ko no="1" yds="65" ob="0" tb="0"></ko>
+   <pat kickatt="1" kickmade="1"></pat>
+   <defense tackua="2" tacka="6" tot_tack="8" tflua="0" tfla="4" tflyds="7" sacks="0" sackyds="0" brup="1" qbh="1"></defense>
+   <scoring td="1" patkick="1"></scoring>
+  </totals>
+  <player name="ALLEN, Drew" shortname="ALLEN, Drew" checkname="ALLEN,DREW" uni="3" class="JR" gp="1" gs="1" dpos="CB" code="3"></player>
+  <player name="BRANCH, M." shortname="BRANCH, M." checkname="BRANCH,M" uni="5" class="SR" gp="1" gs="1" dpos="WS" code="5"></player>
+  <player name="COOPER, Zach" shortname="COOPER, Zach" checkname="COOPER,ZACH" uni="6" class="SR" gp="1" gs="1" dpos="OLB" code="6">
+   <defense tackua="0" tacka="2" tot_tack="2" tflua="0" tfla="1" tflyds="1"></defense>
+  </player>
+  <player name="ROBINSON, W." shortname="ROBINSON, W." checkname="ROBINSON,W" uni="7" class="SO" gp="1" gs="1" opos="WR" code="7"></player>
+  <player name="LAMICA, Nic" shortname="LAMICA, Nic" checkname="LAMICA,NIC" uni="8" class="JR" gp="1" code="8">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="FERGUSON, G." shortname="FERGUSON, G." checkname="FERGUSON,G" uni="9" class="JR" gp="1" code="9">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="UHATAFE, Joseph" shortname="UHATAFE, Joseph" checkname="UHATAFE,JOSEPH" uni="10" class="JR" gp="1" gs="1" dpos="ILB" code="10"></player>
+  <player name="MADISON, DeLano" shortname="MADISON, DeLano" checkname="MADISON,DELANO" uni="15" class="FR" gp="1" gs="1" opos="WR" code="15">
+   <rcv no="1" yds="36" td="0" long="36"></rcv>
+  </player>
+  <player name="ROMANCHAK, A." shortname="ROMANCHAK, A." checkname="ROMANCHAK,A" uni="16" class="FR" gp="1" gs="1" opos="QB" code="16">
+   <pass comp="4" att="5" int="0" yds="56" td="1" long="36" sacks="0" sackyds="0"></pass>
+  </player>
+  <player name="SMIGIERA, Andy" shortname="SMIGIERA, Andy" checkname="SMIGIERA,ANDY" uni="18" class="SR" gp="1" code="18">
+   <defense brup="1"></defense>
+  </player>
+  <player name="ANU, Eldin" shortname="ANU, Eldin" checkname="ANU,ELDIN" uni="20" class="JR" gp="1" gs="1" opos="WR" code="20"></player>
+  <player name="RICHARDS JR, R." shortname="RICHARDS JR, R." checkname="RICHARDS JR,R" uni="21" class="JR" gp="1" gs="1" dpos="SS" code="21">
+   <defense tackua="0" tacka="3" tot_tack="3" tflua="0" tfla="2" tflyds="3"></defense>
+  </player>
+  <player name="WELLS, Malik" shortname="WELLS, Malik" checkname="WELLS,MALIK" uni="24" class="SO" gp="1" code="24">
+   <rush att="5" yds="21" gain="22" loss="1" td="0" long="10"></rush>
+   <rcv no="1" yds="4" td="0" long="4"></rcv>
+  </player>
+  <player name="SATCHER, Dante" shortname="SATCHER, Dante" checkname="SATCHER,DANTE" uni="26" class="SO" gp="1" gs="1" opos="RB" code="26"></player>
+  <player name="WOLLET, Adam" shortname="WOLLET, Adam" checkname="WOLLET,ADAM" uni="33" class="SO" gp="1" gs="1" dpos="ILB" code="33"></player>
+  <player name="SKURATOWICZ, B." shortname="SKURATOWICZ, B." checkname="SKURATOWICZ,B" uni="34" class="FR" gp="1" code="34">
+   <rcv no="1" yds="2" td="1" long="2"></rcv>
+   <scoring td="1"></scoring>
+  </player>
+  <player name="STOTT, Travon" shortname="STOTT, Travon" checkname="STOTT,TRAVON" uni="35" class="FR" gp="1" gs="1" dpos="CB" code="35"></player>
+  <player name="SHENNAN, Connor" shortname="SHENNAN, Connor" checkname="SHENNAN,CONNOR" uni="47" class="SR" gp="1" code="47">
+   <ko no="1" yds="65" ob="0" tb="0"></ko>
+   <pat kickatt="1" kickmade="1"></pat>
+   <scoring patkick="1"></scoring>
+  </player>
+  <player name="CHECK, Adam" shortname="CHECK, Adam" checkname="CHECK,ADAM" uni="48" class="SO" gp="1" code="48">
+   <punt no="1" yds="38" long="38" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="38.0"></punt>
+  </player>
+  <player name="STANLEY, Gee" shortname="STANLEY, Gee" checkname="STANLEY,GEE" uni="51" class="FR" gp="1" gs="1" dpos="OLB" code="51"></player>
+  <player name="ZAMISKA, Zack" shortname="ZAMISKA, Zack" checkname="ZAMISKA,ZACK" uni="53" class="JR" gp="1" gs="1" dpos="DT" code="53">
+   <defense tackua="0" tacka="1" tot_tack="1" tflua="0" tfla="1" tflyds="3"></defense>
+  </player>
+  <player name="BJURO, Ian" shortname="BJURO, Ian" checkname="BJURO,IAN" uni="62" class="SO" gp="1" gs="1" opos="RT" code="62"></player>
+  <player name="LAMB, Mike" shortname="LAMB, Mike" checkname="LAMB,MIKE" uni="66" class="SO" gp="1" gs="1" opos="RG" code="66"></player>
+  <player name="RODRIGUEZ, Rene" shortname="RODRIGUEZ, Rene" checkname="RODRIGUEZ,RENE" uni="70" class="FR" gp="1" gs="1" opos="LT" code="70"></player>
+  <player name="MUNDY, Conner" shortname="MUNDY, Conner" checkname="MUNDY,CONNER" uni="72" class="FR" gp="1" gs="1" opos="C" code="72"></player>
+  <player name="CHAMBLISS, B." shortname="CHAMBLISS, B." checkname="CHAMBLISS,B" uni="76" class="JR" gp="1" gs="1" opos="LG" code="76"></player>
+  <player name="VECCHIO, Tim" shortname="VECCHIO, Tim" checkname="VECCHIO,TIM" uni="80" class="FR" gp="1" code="80">
+   <rcv no="1" yds="14" td="0" long="14"></rcv>
+  </player>
+  <player name="GREEN, Reggie" shortname="GREEN, Reggie" checkname="GREEN,REGGIE" uni="88" class="JR" gp="1" gs="1" opos="TE" code="88"></player>
+  <player name="LEWIS, Ryan" shortname="LEWIS, Ryan" checkname="LEWIS,RYAN" uni="92" class="SR" gp="1" gs="1" dpos="DE" code="92">
+   <defense qbh="1"></defense>
+  </player>
+  <player name="FIADEWORNU, S." shortname="FIADEWORNU, S." checkname="FIADEWORNU,S" uni="95" class="SR" gp="1" gs="1" dpos="DE" code="95"></player>
+ </team>
+ <team vh="H" code="" id="LIBERTY" name="Liberty" record="1-3" abb="L">
+  <linescore prds="1" line="0" score="0">
+   <lineprd prd="1" score="0"></lineprd>
+  </linescore>
+  <totals totoff_plays="6" totoff_yards="4" totoff_avg="0.7">
+   <firstdowns no="0" rush="0" pass="0" penalty="0"></firstdowns>
+   <penalties no="0" yds="0"></penalties>
+   <conversions thirdconv="0" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+   <fumbles no="1" lost="0"></fumbles>
+   <misc yds="0" top="03:09" ona="0" onm="0" ptsto="0"></misc>
+   <redzone att="0" scores="0" points="0" tdrush="0" tdpass="0" fgmade="0" endfga="0" enddowns="0" endint="0" endfumb="0" endhalf="0" endgame="0"></redzone>
+   <rush att="3" yds="2" gain="9" loss="7" td="0" long="9"></rush>
+   <pass comp="1" att="3" int="0" yds="2" td="0" long="2" sacks="0" sackyds="0"></pass>
+   <rcv no="1" yds="2" td="0" long="2"></rcv>
+   <punt no="2" yds="87" long="45" blkd="0" tb="0" fc="2" plus50="0" inside20="0" avg="43.5"></punt>
+   <defense tackua="6" tacka="4" tot_tack="10" tflua="0" tfla="2" tflyds="1" sacks="0" sackyds="0"></defense>
+   <kr no="1" yds="28" td="0" long="28"></kr>
+   <pr no="1" yds="-4" td="0" long="0"></pr>
+  </totals>
+  <player name="PARKER, Zac" shortname="PARKER, Z." checkname="PARKER,Z" uni="1" class="SR" gp="1" code="1">
+   <pr no="1" yds="-4" td="0" long="0"></pr>
+   <fumbles no="1" lost="0"></fumbles>
+  </player>
+  <player name="HOLLOWAY, Tyrin" shortname="HOLLOWAY, T." checkname="HOLLOWAY,T" uni="6" class="JR" gp="1" gs="1" dpos="CB" code="6">
+   <defense tackua="2" tacka="0" tot_tack="2"></defense>
+  </player>
+  <player name="SHELLS, Dante'" shortname="SHELLS, D." checkname="SHELLS,D" uni="8" class="SR" gp="1" gs="1" opos="WR" code="8"></player>
+  <player name="NEWMAN, Nick" shortname="NEWMAN, N." checkname="NEWMAN,N" uni="9" class="SR" gp="1" gs="1" dpos="MLB" code="9">
+   <defense tackua="2" tacka="1" tot_tack="3"></defense>
+  </player>
+  <player name="CALVERT, Stephen" shortname="CALVERT, S." checkname="CALVERT,S" uni="12" class="FR" gp="1" gs="1" opos="QB" code="12">
+   <pass comp="1" att="3" int="0" yds="2" td="0" long="2" sacks="0" sackyds="0"></pass>
+  </player>
+  <player name="MCGINTY, Solomon" shortname="MCGINTY, S." checkname="MCGINTY,S" uni="20" class="JR" gp="1" gs="1" dpos="SPUR" code="20"></player>
+  <player name="HICKSON, Frankie" shortname="HICKSON, F." checkname="HICKSON,F" uni="23" class="FR" gp="1" code="23">
+   <rush att="1" yds="-5" gain="0" loss="5" td="0" long="0"></rush>
+   <rcv no="1" yds="2" td="0" long="2"></rcv>
+   <kr no="1" yds="28" td="0" long="28"></kr>
+  </player>
+  <player name="JACKSON, Corbin" shortname="JACKSON, Cor." checkname="JACKSON,COR" uni="28" class="SO" gp="1" gs="1" dpos="FS" code="28"></player>
+  <player name="ROBBINS, Dexter" shortname="ROBBINS, D." checkname="ROBBINS,D" uni="30" class="SR" gp="1" gs="1" dpos="WLB" code="30">
+   <defense tackua="0" tacka="1" tot_tack="1"></defense>
+  </player>
+  <player name="MOSLEY, Carrington" shortname="MOSLEY, C." checkname="MOSLEY,C" uni="34" class="JR" gp="1" gs="1" opos="RB" code="34">
+   <rush att="2" yds="7" gain="9" loss="2" td="0" long="9"></rush>
+  </player>
+  <player name="TURNER, Trey" shortname="TURNER, T." checkname="TURNER,T" uni="35" class="JR" gp="1" code="35">
+   <punt no="2" yds="87" long="45" blkd="0" tb="0" fc="2" plus50="0" inside20="0" avg="43.5"></punt>
+  </player>
+  <player name="KENNEDY, Thomas" shortname="KENNEDY, T" checkname="KENNEDY,T" uni="36" class="JR" gp="1" gs="1" opos="FB" code="36"></player>
+  <player name="JALLOH, Alpha" shortname="JALLOH, A." checkname="JALLOH,A" uni="38" class="SR" gp="1" gs="1" dpos="SS" code="38">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="TURNER, Chris" shortname="TURNER, C." checkname="TURNER,C" uni="39" class="SO" gp="1" gs="1" dpos="CB" code="39">
+   <defense tackua="1" tacka="0" tot_tack="1"></defense>
+  </player>
+  <player name="DESSOURCES, Erwin" shortname="DESSOURCES, E." checkname="DESSOURCES,E" uni="42" class="SR" gp="1" gs="1" dpos="DE" code="42"></player>
+  <player name="WELLS, Juwan" shortname="WELLS, J." checkname="WELLS,J" uni="54" class="SO" gp="1" gs="1" dpos="RE" code="54">
+   <defense tackua="0" tacka="1" tot_tack="1" tflua="0" tfla="1" tflyds="0"></defense>
+  </player>
+  <player name="AVERY, Tolen" shortname="AVERY, T." checkname="AVERY,T" uni="55" class="SO" gp="1" gs="1" dpos="DT" code="55"></player>
+  <player name="DUFF, Dontae" shortname="DUFF, D." checkname="DUFF,D" uni="56" class="FR" gp="1" gs="1" opos="RG" code="56"></player>
+  <player name="HOLDER, Lucas" shortname="HOLDER, L." checkname="HOLDER,L" uni="70" class="JR" gp="1" gs="1" opos="C" code="70"></player>
+  <player name="PASSMORE, James" shortname="PASSMORE, J." checkname="PASSMORE,J" uni="72" class="SO" gp="1" gs="1" opos="LG" code="72"></player>
+  <player name="ISAACSON, Sam" shortname="ISAACSON, S." checkname="ISAACSON,S" uni="73" class="FR" gp="1" gs="1" opos="RT" code="73"></player>
+  <player name="GREENE, JaRon" shortname="GREENE, J." checkname="GREENE,J" uni="76" class="SR" gp="1" gs="1" dpos="NG" code="76">
+   <defense tackua="0" tacka="1" tot_tack="1" tflua="0" tfla="1" tflyds="1"></defense>
+  </player>
+  <player name="CAMPBELL, Aharown" shortname="CAMPBELL, A" checkname="CAMPBELL,A" uni="79" class="SR" gp="1" gs="1" opos="LT" code="79"></player>
+  <player name="FARROW, B.J." shortname="FARROW, B.J." checkname="FARROW,BJ" uni="82" class="SO" gp="1" gs="1" opos="WR" code="82"></player>
+  <player name="SMITH, Canon" shortname="SMITH, C." checkname="SMITH,C" uni="89" class="SR" gp="1" gs="1" opos="TE" code="89"></player>
+ </team>
+ <scores>
+  <score vh="V" team="RMU" qtr="1" clock="06:19" type="TD" how="PASS" yds="2" scorer="SKURATOWICZ, B." passer="ROMANCHAK, A." patby="SHENNAN, Connor" pattype="KICK" patres="GOOD" plays="7" drive="70" top="3:54" vscore="7" hscore="0" driveindex="4"></score>
+ </scores>
+ <drives>
+  <drive vh="H" team="LIBERTY" start="KO,1,15:00,28" end="PUNT,1,13:18,35" plays="3" yards="7" top="1:42" start_how="KO" start_qtr="1" start_time="15:00" start_spot="LIBERTY28" end_how="PUNT" end_qtr="1" end_time="13:18" end_spot="LIBERTY35" driveindex="1"></drive>
+  <drive vh="V" team="RMU" start="PUNT,1,13:18,23" end="PUNT,1,11:40,30" plays="3" yards="7" top="1:38" start_how="PUNT" start_qtr="1" start_time="13:18" start_spot="RMU23" end_how="PUNT" end_qtr="1" end_time="11:40" end_spot="RMU30" driveindex="2"></drive>
+  <drive vh="H" team="LIBERTY" start="PUNT,1,11:40,28" end="PUNT,1,10:13,25" plays="3" yards="-3" top="1:27" start_how="PUNT" start_qtr="1" start_time="11:40" start_spot="LIBERTY28" end_how="PUNT" end_qtr="1" end_time="10:13" end_spot="LIBERTY25" driveindex="3"></drive>
+  <drive vh="V" team="RMU" start="PUNT,1,10:13,30" end="TD,1,06:19,100" plays="7" yards="70" top="3:54" start_how="PUNT" start_qtr="1" start_time="10:13" start_spot="RMU30" end_how="TD" end_qtr="1" end_time="06:19" end_spot="LIBERTY00" rz="1" driveindex="4"></drive>
+ </drives>
+ <plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="RMU" down="1" togo="10" spot="RMU35" context="V,1,10,V35" playid="0,1,0" tokens="CMT:Robert Morris wins the toss, will kick off and defend the south end."
+      text="Robert Morris wins the toss, will kick off and defend the south end." newcontext="V,1,10,V35">
+   </play>
+   <play hasball="RMU" down="1" togo="10" spot="RMU35" context="V,1,10,V35" playid="0,2,1" tokens="SPOT:V,V35,N"
+      text="RMU ball on RMU35." newcontext="V,1,10,V35">
+   </play>
+   <play hasball="RMU" down="1" togo="10" spot="RMU35" context="V,1,10,V35" playid="0,3,2" type="K" tokens="KO:47,H00 RET:23,H28 TACK:9"
+      text="SHENNAN, Connor kickoff 65 yards to the LIBERTY0, HICKSON, F. return 28 yards to the LIBERTY28 (FERGUSON, G.)." newcontext="H,1,10,H28">
+    <p_ko vh="V" name="SHENNAN, Connor" gain="65"></p_ko>
+    <p_kr vh="H" name="HICKSON, F." gain="28"></p_kr>
+    <p_tk vh="V" name="FERGUSON, G."></p_tk>
+   </play>
+   <drivestart poss="H,H28,15:00" vh="H" spot="H28" clock="15:00" driveindex="1,2"></drivestart>
+   <play hasball="LIBERTY" down="1" togo="10" spot="LIBERTY28" context="H,1,10,H28" playid="1,1,3" type="P" pcode="DP" tokens="PASS:12,I,8,*,DP BRUP:18"
+      text="CALVERT, S. deep pass incomplete to SHELLS, D. (SMIGIERA, Andy)." newcontext="H,2,10,H28">
+    <p_pa vh="H" qb="CALVERT, S." result="INC" rcv="SHELLS, D."></p_pa>
+    <p_bu vh="V" name="SMIGIERA, Andy"></p_bu>
+   </play>
+   <play hasball="LIBERTY" down="2" togo="10" spot="LIBERTY28" context="H,2,10,H28" playid="1,2,4" type="R" pcode="MI" tokens="RUSH:34,H37,MI TACK:6,21"
+      text="MOSLEY, C. rush up middle for 9 yards to the LIBERTY37 (COOPER, Zach;RICHARDS JR, R.)." newcontext="H,3,1,H37">
+    <p_ru vh="H" name="MOSLEY, C." gain="9"></p_ru>
+    <p_tk vh="V" name="COOPER, Zach" assist="Y"></p_tk>
+    <p_tk vh="V" name="RICHARDS JR, R." assist="Y"></p_tk>
+   </play>
+   <play hasball="LIBERTY" down="3" togo="1" spot="LIBERTY37" context="H,3,1,H37" playid="1,3,5" type="R" pcode="MI" tokens="RUSH:34,H35,MI TACK:6,21"
+      text="MOSLEY, C. rush up middle for loss of 2 yards to the LIBERTY35 (COOPER, Zach;RICHARDS JR, R.)." newcontext="H,4,3,H35">
+    <p_ru vh="H" name="MOSLEY, C." gain="-2"></p_ru>
+    <p_tk vh="V" name="COOPER, Zach" assist="Y"></p_tk>
+    <p_tk vh="V" name="RICHARDS JR, R." assist="Y"></p_tk>
+   </play>
+   <play hasball="LIBERTY" down="4" togo="3" spot="LIBERTY35" context="H,4,3,H35" playid="1,4,6" type="U" tokens="PUNT:35,V23 FC:80"
+      text="TURNER, T. punt 42 yards to the RMU23, fair catch by VECCHIO, Tim." newcontext="V,1,10,V23">
+    <p_pu vh="H" name="TURNER, T." gain="42" fc="VECCHIO, Tim"></p_pu>
+   </play>
+   <drivesum plays="3" yards="7" top="1:42" driveindex="1" complete="Y"></drivesum>
+   <drivestart poss="V,V23,13:18" vh="V" spot="V23" clock="13:18" driveindex="2,6"></drivestart>
+   <play hasball="RMU" down="1" togo="10" spot="RMU23" context="V,1,10,V23" playid="2,1,7" clock="13:18" tokens="{DRIVE}:13:18"
+      text="ROBERT MORRIS drive start at 13:18." newcontext="V,1,10,V23">
+   </play>
+   <play hasball="RMU" down="1" togo="10" spot="RMU23" context="V,1,10,V23" playid="2,2,8" type="R" pcode="MI" tokens="RUSH:24,V27,MI TACK:9"
+      text="WELLS, Malik rush up middle for 4 yards to the RMU27 (NEWMAN, N.)." newcontext="V,2,6,V27">
+    <p_ru vh="V" name="WELLS, Malik" gain="4"></p_ru>
+    <p_tk vh="H" name="NEWMAN, N."></p_tk>
+   </play>
+   <play hasball="RMU" down="2" togo="6" spot="RMU27" context="V,2,6,V27" playid="2,3,9" type="R" pcode="MI" tokens="RUSH:24,V30,MI TACK:30,9"
+      text="WELLS, Malik rush up middle for 3 yards to the RMU30 (ROBBINS, D.;NEWMAN, N.)." newcontext="V,3,3,V30">
+    <p_ru vh="V" name="WELLS, Malik" gain="3"></p_ru>
+    <p_tk vh="H" name="ROBBINS, D." assist="Y"></p_tk>
+    <p_tk vh="H" name="NEWMAN, N." assist="Y"></p_tk>
+   </play>
+   <play hasball="RMU" down="3" togo="3" spot="RMU30" context="V,3,3,V30" playid="2,4,10" type="P" pcode="SI" tokens="PASS:16,I,24,*,SI"
+      text="ROMANCHAK, A. sideline pass incomplete to WELLS, Malik." newcontext="V,4,3,V30">
+    <p_pa vh="V" qb="ROMANCHAK, A." result="INC" rcv="WELLS, Malik"></p_pa>
+   </play>
+   <play hasball="RMU" down="4" togo="3" spot="RMU30" context="V,4,3,V30" playid="2,5,11" type="U" tokens="PUNT:48,H32 RET:1,H32 FUMB:H,H28,8D"
+      text="CHECK, Adam punt 38 yards to the LIBERTY32, PARKER, Z. return 0 yards to the LIBERTY32, fumble by PARKER, Z. recovered by LIBERTY FAULKS, J. at LIBERTY28." newcontext="H,1,10,H28">
+    <p_pu vh="V" name="CHECK, Adam" gain="38"></p_pu>
+    <p_pr vh="H" name="PARKER, Z." gain="0"></p_pr>
+    <p_fumb vh="H" name="PARKER, Z." at="H28" frvh="H" frname="FAULKS, J."></p_fumb>
+   </play>
+   <drivesum plays="3" yards="7" top="1:38" driveindex="2" complete="Y"></drivesum>
+   <drivestart poss="H,H28,11:40" vh="H" spot="H28" clock="11:40" driveindex="3,11"></drivestart>
+   <play hasball="LIBERTY" down="1" togo="10" spot="LIBERTY28" context="H,1,10,H28" playid="3,1,12" clock="11:40" tokens="{DRIVE}:11:40 SPOT:H,H28,Y"
+      text="LIBERTY drive start at 11:40, LIBERTY ball on LIBERTY28." newcontext="H,1,10,H28">
+   </play>
+   <play hasball="LIBERTY" down="1" togo="10" spot="LIBERTY28" context="H,1,10,H28" playid="3,2,13" type="R" pcode="MI" tokens="RUSH:23,H23,MI TACK:53,21"
+      text="HICKSON, F. rush up middle for loss of 5 yards to the LIBERTY23 (ZAMISKA, Zack;RICHARDS JR, R.)." newcontext="H,2,15,H23">
+    <p_ru vh="H" name="HICKSON, F." gain="-5"></p_ru>
+    <p_tk vh="V" name="ZAMISKA, Zack" assist="Y"></p_tk>
+    <p_tk vh="V" name="RICHARDS JR, R." assist="Y"></p_tk>
+   </play>
+   <play hasball="LIBERTY" down="2" togo="15" spot="LIBERTY23" context="H,2,15,H23" playid="3,3,14" type="P" pcode="DP" tokens="PASS:12,I,17,*,DP QBH:V,92"
+      text="CALVERT, S. deep pass incomplete to COUAMIN, K., QB hurry by LEWIS, Ryan." newcontext="H,3,15,H23">
+    <p_pa vh="H" qb="CALVERT, S." result="INC" rcv="COUAMIN, K."></p_pa>
+    <p_qbh vh="V" name="LEWIS, Ryan"></p_qbh>
+   </play>
+   <play hasball="LIBERTY" down="3" togo="15" spot="LIBERTY23" context="H,3,15,H23" playid="3,4,15" type="P" pcode="SC" tokens="PASS:12,C,23,H25,SC TACK:8"
+      text="CALVERT, S. screen pass complete to HICKSON, F. for 2 yards to the LIBERTY25 (LAMICA, Nic)." newcontext="H,4,13,H25">
+    <p_pa vh="H" qb="CALVERT, S." result="COMP" rcv="HICKSON, F." gain="2"></p_pa>
+    <p_tk vh="V" name="LAMICA, Nic"></p_tk>
+   </play>
+   <play hasball="LIBERTY" down="4" togo="13" spot="LIBERTY25" context="H,4,13,H25" playid="3,5,16" type="U" tokens="PUNT:35,V30 FC:80"
+      text="TURNER, T. punt 45 yards to the RMU30, fair catch by VECCHIO, Tim." newcontext="V,1,10,V30">
+    <p_pu vh="H" name="TURNER, T." gain="45" fc="VECCHIO, Tim"></p_pu>
+   </play>
+   <drivesum plays="3" yards="-3" top="1:27" driveindex="3" complete="Y"></drivesum>
+   <drivestart poss="V,V30,10:13" vh="V" spot="V30" clock="10:13" driveindex="4,16"></drivestart>
+   <play hasball="RMU" down="1" togo="10" spot="RMU30" context="V,1,10,V30" playid="4,1,17" clock="10:13" tokens="{DRIVE}:10:13"
+      text="ROBERT MORRIS drive start at 10:13." newcontext="V,1,10,V30">
+   </play>
+   <play hasball="RMU" down="1" togo="10" spot="RMU30" context="V,1,10,V30" playid="4,2,18" type="P" pcode="SI" first="P" tokens="PASS:16,C,80,V44,SI TACK:39"
+      text="ROMANCHAK, A. sideline pass complete to VECCHIO, Tim for 14 yards to the RMU44, 1ST DOWN RMU (TURNER, C.)." newcontext="V,1,10,V44">
+    <p_pa vh="V" qb="ROMANCHAK, A." result="COMP" rcv="VECCHIO, Tim" gain="14"></p_pa>
+    <p_tk vh="H" name="TURNER, C."></p_tk>
+   </play>
+   <play hasball="RMU" down="1" togo="10" spot="RMU44" context="V,1,10,V44" playid="4,3,19" type="#" clock="09:32" tokens="TOUT:V T:09:32"
+      text="Timeout Robert Morris, clock 09:32." newcontext="V,1,10,V44">
+    <p_to vh="V" team="Robert Morris"></p_to>
+   </play>
+   <play hasball="RMU" down="1" togo="10" spot="RMU44" context="V,1,10,V44" playid="4,4,20" type="R" pcode="MI" tokens="RUSH:24,V43,MI TACK:76,54"
+      text="WELLS, Malik rush up middle for loss of 1 yard to the RMU43 (GREENE, J.;WELLS, J.)." newcontext="V,2,11,V43">
+    <p_ru vh="V" name="WELLS, Malik" gain="-1"></p_ru>
+    <p_tk vh="H" name="GREENE, J." assist="Y"></p_tk>
+    <p_tk vh="H" name="WELLS, J." assist="Y"></p_tk>
+   </play>
+   <play hasball="RMU" down="2" togo="11" spot="RMU43" context="V,2,11,V43" playid="4,5,21" type="R" pcode="MI" tokens="RUSH:24,H47,MI TACK:6"
+      text="WELLS, Malik rush up middle for 10 yards to the LIBERTY47 (HOLLOWAY, T.)." newcontext="V,3,1,H47">
+    <p_ru vh="V" name="WELLS, Malik" gain="10"></p_ru>
+    <p_tk vh="H" name="HOLLOWAY, T."></p_tk>
+   </play>
+   <play hasball="RMU" down="3" togo="1" spot="LIBERTY47" context="V,3,1,H47" playid="4,6,22" type="P" pcode="SI" first="P" tokens="PASS:16,C,15,H11,SI TACK:38"
+      text="ROMANCHAK, A. sideline pass complete to MADISON, DeLano for 36 yards to the LIBERTY11, 1ST DOWN RMU (JALLOH, A.)." newcontext="V,1,10,H11">
+    <p_pa vh="V" qb="ROMANCHAK, A." result="COMP" rcv="MADISON, DeLano" gain="36"></p_pa>
+    <p_tk vh="H" name="JALLOH, A."></p_tk>
+   </play>
+   <play hasball="RMU" down="1" togo="10" spot="LIBERTY11" context="V,1,10,H11" playid="4,7,23" type="R" pcode="RT" tokens="RUSH:24,H06,RT TACK:6"
+      text="WELLS, Malik rush over right tackle for 5 yards to the LIBERTY6 (HOLLOWAY, T.)." newcontext="V,2,5,H06">
+    <p_ru vh="V" name="WELLS, Malik" gain="5"></p_ru>
+    <p_tk vh="H" name="HOLLOWAY, T."></p_tk>
+   </play>
+   <play hasball="RMU" down="2" togo="5" spot="LIBERTY06" context="V,2,5,H06" playid="4,8,24" type="P" pcode="SI" tokens="PASS:16,C,24,H02,SI TACK:9"
+      text="ROMANCHAK, A. sideline pass complete to WELLS, Malik for 4 yards to the LIBERTY2 (NEWMAN, N.)." newcontext="V,3,1,H02">
+    <p_pa vh="V" qb="ROMANCHAK, A." result="COMP" rcv="WELLS, Malik" gain="4"></p_pa>
+    <p_tk vh="H" name="NEWMAN, N."></p_tk>
+   </play>
+   <play hasball="RMU" down="3" togo="1" spot="LIBERTY02" context="V,3,1,H02" playid="4,9,25" type="P" pcode="SI" first="P" score="Y" vscore="6" hscore="0" clock="06:19" tokens="PASS:16,C,34,H00,SI T:06:19"
+      text="ROMANCHAK, A. sideline pass complete to SKURATOWICZ, B. for 2 yards to the LIBERTY0, 1ST DOWN RMU, TOUCHDOWN, clock 06:19." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="ROMANCHAK, A." result="COMP" rcv="SKURATOWICZ, B." gain="2"></p_pa>
+   </play>
+   <play hasball="RMU" down="1" togo="0" spot="LIBERTY03" context="V,1,0,H03" playid="4,10,26" type="X" score="Y" vscore="7" hscore="0" tokens="PAT:K,47,G"
+      text="SHENNAN, Connor kick attempt good." newcontext="V,1,0,V35">
+    <p_pat vh="V" name="SHENNAN, Connor" qb="SHENNAN, Connor" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="0"></score>
+   <drivesum plays="7" yards="70" top="3:54" driveindex="4" complete="Y"></drivesum>
+   <score V="7" H="0"></score>
+   <qtrsummary vh="V" id="RMU">
+    <firstdowns no="3" rush="0" pass="3" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="2" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="05:32"></misc>
+    <rush att="5" yds="21" gain="22" loss="1" td="0" long="10"></rush>
+    <pass comp="4" att="5" int="0" yds="56" td="1" long="36" sacks="0" sackyds="0"></pass>
+    <rcv no="4" yds="56" td="1" long="36"></rcv>
+    <punt no="1" yds="38" long="38" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="38.0"></punt>
+    <ko no="1" yds="65" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="2" tacka="6" tot_tack="8" tflua="0" tfla="4" tflyds="7" sacks="0" sackyds="0" brup="1" qbh="1"></defense>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="LIBERTY">
+    <firstdowns no="0" rush="0" pass="0" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="0" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="03:09"></misc>
+    <rush att="3" yds="2" gain="9" loss="7" td="0" long="9"></rush>
+    <pass comp="1" att="3" int="0" yds="2" td="0" long="2" sacks="0" sackyds="0"></pass>
+    <rcv no="1" yds="2" td="0" long="2"></rcv>
+    <punt no="2" yds="87" long="45" blkd="0" tb="0" fc="2" plus50="0" inside20="0" avg="43.5"></punt>
+    <defense tackua="6" tacka="4" tot_tack="10" tflua="0" tfla="2" tflyds="1" sacks="0" sackyds="0"></defense>
+    <kr no="1" yds="28" td="0" long="28"></kr>
+    <pr no="1" yds="-4" td="0" long="0"></pr>
+    <fumbles no="1" lost="0"></fumbles>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="V" id="RMU" down="1" togo="0" spot="RMU35" context="V,1,0,V35" qtr="1" clock="06:19" vtoh="1" htoh="0"
+       lastplay="SHENNAN, Connor kick attempt good."></downtogo>
+ </plays>
+ <message text=""></message>
+</fbgame>
