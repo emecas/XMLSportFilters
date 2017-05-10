@@ -24,14 +24,14 @@ public class Main {
 
 //        baseballParser("/xml/sport/baseball/LUBS1726_baseball.xml" );
 //        
-//        System.out.println("");
-//        
-//        footballParser("/xml/sport/football/libe_pre.xml");
-//        footballParser("/xml/sport/football/libe_1.xml");
-//        footballParser("/xml/sport/football/libe_2.xml");
-//        footballParser("/xml/sport/football/libe_3.xml");
-//        footballParser("/xml/sport/football/libe_4.xml");
-//        footballParser("/xml/sport/football/libe_5.xml");
+        System.out.println("");
+        
+        footballParser("/xml/sport/football/libe_pre.xml");
+        footballParser("/xml/sport/football/libe_1.xml");
+        footballParser("/xml/sport/football/libe_2.xml");
+        footballParser("/xml/sport/football/libe_3.xml");
+        footballParser("/xml/sport/football/libe_4.xml");
+        footballParser("/xml/sport/football/libe_5.xml");
     }
 
     private static String footballParser(String path) {
@@ -65,7 +65,9 @@ public class Main {
         qtr=(xml.xpath("//plays//downtogo/@qtr").isEmpty())?"0":xml.xpath("//plays//downtogo/@qtr").get(0);
         String clock = (xml.xpath("//plays//downtogo/@clock").isEmpty())?"":xml.xpath("//plays//downtogo/@clock").get(0);
         
-        Stats stats = new FootballStats("football",total_vscore,total_hscore,Integer.parseInt(qtr));
+        String hasball = (xml.xpath("//plays//downtogo/@hasball").isEmpty())?"":xml.xpath("//plays//downtogo/@hasball").get(0);
+        
+        Stats stats = new FootballStats("football",total_vscore,total_hscore,Integer.parseInt(qtr),clock,hasball);
         Gson gson = new Gson();
         String json = gson.toJson(stats);
         System.out.println(json);

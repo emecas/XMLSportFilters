@@ -14,11 +14,16 @@ import output.Stats;
 public class FootballStats extends Stats {
     
     private int qtr;
+    private String clock;
+    private String hasball;
     
 
-    public FootballStats(String type, int visitorScore, int homeScore,int qtr) {
+    public FootballStats(String type, int visitorScore, int homeScore,int qtr,String clock, String hasball) {
         super(type,visitorScore,homeScore);
         this.qtr=qtr;
+        this.clock=clock;
+        this.hasball=hasball;
+        
     }
     
     
@@ -28,4 +33,21 @@ public class FootballStats extends Stats {
     public void setQtr(int qtr) {
         this.qtr = qtr;
     }
+    
+    
+    /**
+     * @param clock the clock to set
+     */
+    public void setClock(String clock) {
+        this.clock = clock;
+    }
+    
+    /**
+     * @param hasball the hasball to set
+     */
+    public void setHasball(String hasball) {
+        this.clock = hasball;
+    }
+    
+    
 }
