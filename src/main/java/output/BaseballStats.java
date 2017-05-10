@@ -14,11 +14,14 @@ import output.Stats;
 public class BaseballStats extends Stats {
     
     private String inning;
+    private int outs;
     
-    public BaseballStats(String type, int visitorScore, int homeScore,String inning) {
+    public BaseballStats(String type, int visitorScore, int homeScore,String inning,int outs) {
         super(type,visitorScore,homeScore);
         this.inning=inning;
+        this.outs=outs;
     }
+  
     
     /**
      * @param inning the inning to set
@@ -27,4 +30,7 @@ public class BaseballStats extends Stats {
         this.inning = inning;
     }
 
+    public void setOuts(int outs) {
+        this.outs = outs;
+    }
 }
